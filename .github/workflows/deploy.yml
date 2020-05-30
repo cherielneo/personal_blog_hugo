@@ -19,5 +19,5 @@ jobs:
         uses: actions/checkout@master
         with:
           fetch-depth: 1
-      - name: 🚀 Build and deploy
+      - name: 🚀 Build and deploy to pages
         uses: victoriadrake/hugo-remote@master
