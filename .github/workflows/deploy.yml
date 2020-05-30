@@ -19,5 +19,7 @@ jobs:
         uses: actions/checkout@master
         with:
           fetch-depth: 1
+      - name: 🖌️ Get theme
+        run: git clone https://github.com/victoriadrake/hugo-theme-sam.git themes/sam
       - name: 🚀 Build and deploy to pages
         uses: victoriadrake/hugo-remote@master
