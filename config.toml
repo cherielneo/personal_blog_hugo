@@ -25,13 +25,13 @@ pygmentsCodefences       = true
     link = "posts"
     text = "posts"
 
-[[params.mainMenu]]
-    link = "gallery"
-    text = "gallery"
+# [[params.mainMenu]]
+#     link = "gallery"
+#     text = "gallery"
 
-[[params.mainMenu]]
-    link = "portfolio"
-    text = "portfolio"
+# [[params.mainMenu]]
+#     link = "portfolio"
+#     text = "portfolio"
 
 [[params.mainMenu]]
     link = "about"
