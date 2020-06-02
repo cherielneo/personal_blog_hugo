@@ -6,4 +6,4 @@ draft: false
 
 Cheriel is a big barlo.
 
-![Young Cheriel](young_cheriel.jpg)
+![Young Cheriel](/images/young_cheriel.jpg)
